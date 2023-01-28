@@ -9,7 +9,7 @@
 - 🔭 I love finding bugs and eliminating them, even if it means a rewrite! I love stable code 😄
 
 ## :man_technologist: What I'm up to?
-- Currently building a business directory web application that leverages internal social media to connect like minded users and local businesses and connect communities toghether. 
+- Currently building a business directory web application that leverages internal social media to connect like minded users and local businesses and connect communities together. 
 - **Tech Stack:** React, Node, Firebase, GraphQL, and Redux.
 
 ## 🌱 Skills
