@@ -1,4 +1,6 @@
-### 👋 Hi, my name is Cristian Custodio 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/cristian-custodio/cristian-custodio/images/cristian-custodio.svg" alt="Cristian Custodio" />
+</h1>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
