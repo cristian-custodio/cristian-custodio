@@ -4,9 +4,9 @@
 
 ## :book: About me?
 - 🖥  Full-Stack Software Developer
-- 🎓 Graduated with a Bachelors Degree in Software Development **4.0 GPA** from Strayer University, class of 𝟸0𝟸2
+- 🎓 Graduated with a **Bachelors Degree** in Software Development **4.0 GPA** from Strayer University, class of 𝟸0𝟸2
 - ⚡ Passionate about creating full-stack web application and implementing the latest technologies
-- 🔭 I love finding bugs and eliminating them, even if it means a rewrite! I love stable code 😄
+- 🔭 I **love finding bugs** and eliminating them, even if it means a rewrite! I love stable code 😄
 
 ## :man_technologist: What I'm up to?
 - Currently building a business directory web application that leverages internal social media to connect like minded users and local businesses and connect communities together. 
