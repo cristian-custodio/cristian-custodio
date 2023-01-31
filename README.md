@@ -2,7 +2,7 @@
   <img src="https://github.com/cristian-custodio/cristian-custodio/blob/main/images/cristian-custodio.svg" alt="Cristian Custodio" />
 </h1>
 
-## :book: About me?
+## :book: About me
 - 🖥  Full-Stack Software Developer
 - ⚡ Passionate about creating full-stack web application and implementing the latest technologies
 - 🔭 I **love finding bugs** and eliminating them, even if it means a rewrite! I love stable code 😄
