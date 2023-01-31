@@ -17,7 +17,7 @@
 
 ## 🌱 Skills
 - 👨‍💻 TypeScript, JavaScript, C#
-- ⚙️ React, React Native, Redux, GraphQL, node
+- ⚙️ React, React Native, Redux, GraphQL, Node
 - 💽 MySQL, SQL, Mongo
 
 
