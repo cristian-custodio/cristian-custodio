@@ -4,7 +4,6 @@
 
 ## :book: About me?
 - 🖥  Full-Stack Software Developer
-
 - ⚡ Passionate about creating full-stack web application and implementing the latest technologies
 - 🔭 I **love finding bugs** and eliminating them, even if it means a rewrite! I love stable code 😄
 
