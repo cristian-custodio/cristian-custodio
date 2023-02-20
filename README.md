@@ -13,6 +13,7 @@
 
 ## :man_technologist: What I'm up to?
 - Currently building a business directory web application that leverages internal social media to connect like minded users and local businesses and connect communities together. 
+- Currently building a live closed captioning translation software to translate creative content to Spanish, Russian, Korean, and French
 - **Tech Stack:** React, Node, Firebase, GraphQL, and Redux.
 
 ## 🌱 Skills
