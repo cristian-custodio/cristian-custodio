@@ -3,7 +3,7 @@
 </h1>
 
 ## :book: About me
-- 🖥  Full-Stack Software Engineer
+- 🖥  Full-Stack Senior Software Engineer
 - 📱 Mobile Developer
 - ⚡ Passionate about creating full-stack web applications and implementing the latest technologies
 - 🔭 I **love finding bugs** and eliminating them, even if it means a rewrite! I love stable code 😄
