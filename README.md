@@ -15,7 +15,7 @@
 - ✔️ JavaScript Mastery, Mastering React, Ultimate Redux, React Native 1 & 2 [CodeWithMosh®] (Over 100 Hours)
 
 ## :man_technologist: What I'm up to?
-- Currently working as a Web Software Developer for the **University of Texas at Dallas**
+- Currently working as the Chief Technology Officer for the **Dynamic Specialy Inc**
 - Currently building a business directory web application that leverages internal social media to connect like-minded users and local businesses and connect communities together. 
 - Currently building a live closed captioning translation software to translate creative content to Spanish, Russian, Korean, and French.
 - **Tech Stack:** React, Node, Firebase, GraphQL, Algolia, Docker, Redux, MySQL, LAMP, and Lando
